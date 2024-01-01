@@ -10,6 +10,8 @@
 	</p>
 </h1>
 
+Curated list of clients, including web apps and desktop clients, powered by AI such as ChatGPT, Midjourney.
+
 If you wish to contribute: [start a pull request](https://github.com/wlemuel/awesome-ai-client/pulls)
 
 <!-- TOC -->
