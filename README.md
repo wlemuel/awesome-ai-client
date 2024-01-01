@@ -16,12 +16,12 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 
 ## Contents
 
-- [🌐 Web](#web)
-- [💻 Desktop](#desktop)
-- [📱 Mobile App](#mobile-app)
-- [🌏 Browser Extension](#browser-extension)
-- [⌨️ CLI](#cli)
-- [🔧 Others](#others)
+- [🌐 Web](#-web)
+- [💻 Desktop](#-desktop)
+- [📱 Mobile App](#-mobile-app)
+- [🌏 Browser Extension](#-browser-extension)
+- [⌨️ CLI](#-cli)
+- [🔧 Others](#-others)
 
 <!-- CONTENT -->
 
