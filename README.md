@@ -37,7 +37,12 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 - [azurechat](https://github.com/microsoft/azurechat) - Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [nisabmohd/ChatGPT](https://github.com/nisabmohd/ChatGPT) - a ChatGPT clone using Next.js 13, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
-- [chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
+- [chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts
+- [OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+- [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - About
+A commercially-viable ChatGpt web application built with React
+- [MyChatGPT](https://github.com/Loeffeldude/my-chat-gpt) - a ChatGPT UI clone with some extra features.
+- [docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models. 
 
 ## 💻 Desktop
 
@@ -48,6 +53,7 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 - [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)
 - [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
+- [chatbox](https://github.com/Bin-Huang/chatbox) - a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 
 ## 📱 Mobile App
 
@@ -58,9 +64,18 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 
 ## ⌨️ CLI
 
+- [ChatGPT CLI](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+
 ## 🔧 Others
 
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant
 - [ChatGPT Line Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - Integrate ChatGPT into Line
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a Telegram bot that lets you chat with the chatGPT language model using your local browser.
+- [GPTel](https://github.com/karthink/gptel) - A simple ChatGPT client for Emacs
+- [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot) - Run your own ChatGPT Telegram bot!
+- [telegram-chatgpt-bot](https://github.com/iamwavecut/telegram-chatgpt-bot) - Simple Telegram bot integration to OpenAI ChatGPT API, written in Go
+- [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot) - A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-based APIs.
+- [myGPTReader-slack](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 
