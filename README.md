@@ -50,6 +50,7 @@ A commercially-viable ChatGpt web application built with React
 - [big-AGI](https://github.com/enricoros/big-agi) - Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
 - [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI.
 - [Le-AI](https://github.com/LTopx/Le-AI) - Your open-source AI Assistant Hub, helping you boost efficiency UP~
+- [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama
 
 ## 💻 Desktop
 
