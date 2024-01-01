@@ -1,8 +1,16 @@
 <h1 align="center">
 	🔮 Awesome AI Client
+	<p align="center">
+		<a href="https://awesome.re" target="_blank">
+			<img src="https://awesome.re/badge.svg">
+		</a>
+		<a href="https://github.com/wlemuel/awesome-ai-client/commit-activity" target="_blank">
+			<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+		</a>
+	</p>
 </h1>
 
-If you wish to contribute: [start a pull request]()
+If you wish to contribute: [start a pull request](https://github.com/wlemuel/awesome-ai-client/pulls)
 
 <!-- TOC -->
 
