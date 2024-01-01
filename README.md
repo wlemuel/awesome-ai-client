@@ -27,6 +27,8 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 
 ## 🌐 Web
 
+**[`^        back to top        ^`](#-awesome-ai-client)**
+
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support.
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - A ChatGPT demo website built with Express and Vue3
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerful Client powered by OpenAI and Vercel
@@ -49,6 +51,8 @@ A commercially-viable ChatGpt web application built with React
 
 ## 💻 Desktop
 
+**[`^        back to top        ^`](#-awesome-ai-client)**
+
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application (Mac, Windows and Linux)
 - [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - A React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
@@ -60,10 +64,14 @@ A commercially-viable ChatGpt web application built with React
 
 ## 📱 Mobile App
 
+**[`^        back to top        ^`](#-awesome-ai-client)**
+
 - [ChatGPT-mobile](https://openai.com/chatgpt) - Official ChatGPT mobile app.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Your everyday AI companion
 
 ## 🌏 Browser Extension
+
+**[`^        back to top        ^`](#-awesome-ai-client)**
 
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
@@ -72,12 +80,16 @@ A commercially-viable ChatGpt web application built with React
 
 ## ⌨️ CLI
 
+**[`^        back to top        ^`](#-awesome-ai-client)**
+
 - [ChatGPT CLI](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [kkdai/chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 
 ## 🔧 Others
+
+**[`^        back to top        ^`](#-awesome-ai-client)**
 
 - [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
