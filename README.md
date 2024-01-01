@@ -42,7 +42,10 @@ If you wish to contribute: [start a pull request](https://github.com/wlemuel/awe
 - [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - About
 A commercially-viable ChatGpt web application built with React
 - [MyChatGPT](https://github.com/Loeffeldude/my-chat-gpt) - a ChatGPT UI clone with some extra features.
-- [docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models. 
+- [docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
+- [big-AGI](https://github.com/enricoros/big-agi) - Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+- [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI.
+- [Le-AI](https://github.com/LTopx/Le-AI) - Your open-source AI Assistant Hub, helping you boost efficiency UP~
 
 ## 💻 Desktop
 
@@ -57,17 +60,26 @@ A commercially-viable ChatGpt web application built with React
 
 ## 📱 Mobile App
 
+- [ChatGPT-mobile](https://openai.com/chatgpt) - Official ChatGPT mobile app.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Your everyday AI companion
+
 ## 🌏 Browser Extension
 
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
+- [chathub](https://github.com/chathub-dev/chathub/) - All-in-one chatbot client
+- [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
 
 ## ⌨️ CLI
 
 - [ChatGPT CLI](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+- [kkdai/chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang
+- [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 
 ## 🔧 Others
 
+- [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant
 - [ChatGPT Line Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - Integrate ChatGPT into Line
@@ -78,4 +90,4 @@ A commercially-viable ChatGpt web application built with React
 - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot) - A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-based APIs.
 - [myGPTReader-slack](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
-
+- [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
