@@ -89,6 +89,7 @@ A commercially-viable ChatGpt web application built with React
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [kkdai/chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
+- [OpenPaw](https://github.com/daxaur/openpaw) - Turns Claude Code into a personal assistant with 38 skills including Telegram, Discord, Obsidian, and more. Run via `npx pawmode`.
 
 ## 🔧 Others
 
