@@ -71,6 +71,7 @@ A commercially-viable ChatGpt web application built with React
 
 - [ChatGPT-mobile](https://openai.com/chatgpt) - Official ChatGPT mobile app.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Your everyday AI companion
+- [Onepilot](https://onepilotapp.com) - iOS and iPadOS app that connects via SSH to a remote machine and runs terminal coding agents like Claude Code and Codex CLI.
 
 ## 🌏 Browser Extension
 
