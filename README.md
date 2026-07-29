@@ -64,6 +64,7 @@ A commercially-viable ChatGpt web application built with React
 - [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [chatbox](https://github.com/Bin-Huang/chatbox) - a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [AICraft](https://github.com/Easlie114514/AICraft) - Desktop AI capability launcher — manage LLM Skills, MCP, RAG, and memory like Minecraft mods. One-click DeepSeek setup, role emotion portraits, 3-tier memory. Portable exe, no installation required.
 
 ## 📱 Mobile App
 
