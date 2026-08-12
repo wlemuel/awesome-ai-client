@@ -95,6 +95,7 @@ A commercially-viable ChatGpt web application built with React
 **[`^        back to top        ^`](#-awesome-ai-client)**
 
 - [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Open-source Windows/macOS companion overlay that shows Codex quota and reset timing while Codex is in the foreground.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant
 - [ChatGPT Line Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - Integrate ChatGPT into Line
