@@ -88,6 +88,8 @@ A commercially-viable ChatGpt web application built with React
 - [ChatGPT CLI](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [kkdai/chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes + tasks as plain Markdown, AI chat grounded in your own files
+
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 
 ## 🔧 Others
