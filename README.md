@@ -71,6 +71,7 @@ A commercially-viable ChatGpt web application built with React
 
 - [ChatGPT-mobile](https://openai.com/chatgpt) - Official ChatGPT mobile app.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Your everyday AI companion
+- [Molfar System](https://molfar.nova-hata.com/?lang=en) - Multi-model AI meetings on Android: four independent participants with their own models and providers, an Orchestrator that compares answers, and a Secretary for documents. BYOK, no backend.
 
 ## 🌏 Browser Extension
 
